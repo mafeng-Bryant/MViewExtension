@@ -1,0 +1,16 @@
+PODS:
+  - MViewExtension (1.0.0)
+
+DEPENDENCIES:
+  - MViewExtension (from `../`)
+
+EXTERNAL SOURCES:
+  MViewExtension:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  MViewExtension: 0f6cbdbb2c5e411eadbd5f6f38224e9483f664ea
+
+PODFILE CHECKSUM: 6a1d019490e16a996bae06efc62078159b107f16
+
+COCOAPODS: 1.5.3

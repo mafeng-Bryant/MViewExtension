@@ -1,0 +1,6 @@
+framework module MViewExtension {
+  umbrella header "MViewExtension-umbrella.h"
+
+  export *
+  module * { export * }
+}

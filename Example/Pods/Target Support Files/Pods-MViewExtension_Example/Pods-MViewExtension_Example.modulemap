@@ -1,0 +1,6 @@
+framework module Pods_MViewExtension_Example {
+  umbrella header "Pods-MViewExtension_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}
